@@ -1,6 +1,6 @@
 # RESOLUCIÓN TAREA PRACTICA PERIODO II (25/3/2026)
 
->Detalles de la tarea en la [Teorica 8 - Semana 8](../../semana8/teorica8/clase13.md).
+>Detalles de la tarea en la [Teórica 8 - Semana 8](../../semana8/teorica8/clase13.md).
 
 ## TAREA PRACTICA PERIODO II
 
