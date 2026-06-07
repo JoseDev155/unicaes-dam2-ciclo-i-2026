@@ -11,3 +11,12 @@ No hubo clase este día :)
 ## Repositorio de GitHub
 
 * Enlace al repositorio de GitHub: [watchlog](https://github.com/JuanJose2019/watchlog)
+
+---
+
+## Mis repositorios
+
+>Resumen de mis repositorios de la aplicación
+
+* Mi repositorio de GitHub - Versión de desarrollo: [flask-swift-movie-review-app](https://github.com/JoseDev155/flask-swift-movie-review-app)
+* Versión final modificada: [flask-swift-watchlog](https://github.com/JoseDev155/flask-swift-watchlog)
